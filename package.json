@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/andrewdickens/SweeterNothingsV2#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "forever": "node_modules/forever"
   }
 }
